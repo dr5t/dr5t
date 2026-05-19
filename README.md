@@ -1,4 +1,11 @@
-  ## 💰 You can help me by Donating
+## 💫 About Me
+
+🚀 AI-focused full-stack developer  
+🧠 Exploring automation, computer vision, and scalable systems  
+💻 Building modern web applications and experimental tools  
+🌱 Currently learning advanced backend architecture and AI workflows
+
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tiwarishau9) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dr5t) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/dr5t) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dr5_t) 
 
 
