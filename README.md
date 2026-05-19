@@ -45,7 +45,56 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dr5t&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+# 🚀 Featured Projects
+
+## 🔐 VaultX
+Modern secure storage and management platform focused on usability, scalability, and secure workflows.
+
+### Highlights
+- Secure data handling
+- Modern full-stack architecture
+- Scalable system design
+- Clean UI/UX focused workflows
+
+### Tech Stack
+React • Next.js • FastAPI • PostgreSQL • Docker
+
+🔗 Repository  
+https://github.com/dr5t/VaultX
+
+---
+
+## 🏥 Hospital Bed Management System
+Real-time hospital bed allocation and management system designed to optimize healthcare resource tracking and operational workflows.
+
+### Features
+- Bed allocation management
+- Real-time availability tracking
+- Administrative workflow handling
+- Scalable healthcare system architecture
+
+### Tech Stack
+React • Node.js • PostgreSQL • Express • Docker
+
+🔗 Repository  
+https://github.com/dr5t/bedmgmt
+
+---
+
+## 🍱 Food Aid
+Platform focused on food distribution, accessibility, and aid coordination to reduce food waste and improve resource management.
+
+### Features
+- Food distribution coordination
+- Resource management workflows
+- Community-focused utility system
+- Scalable backend architecture
+
+### Tech Stack
+React • FastAPI • MongoDB • Firebase
+
+🔗 Repository  
+https://github.com/dr5t/food-aid
 
 
 
