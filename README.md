@@ -1,4 +1,5 @@
 # Hey, I'm Shaurya 👨‍💻
+Engineer building intelligent developer systems.
 Full-stack and AI developer focused on automation, backend systems, and modern web architectures.
 
 # 💫 About Me
