@@ -45,58 +45,63 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 
 ### 🔝 Top Contributed Repo
-# 🚀 Featured Projects
+# ⚡ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🔐 VaultX
-Modern secure storage and management platform focused on usability, scalability, and secure workflows.
+Secure cloud vault & digital asset management platform.
 
-### Highlights
-- Secure data handling
-- Modern full-stack architecture
-- Scalable system design
-- Clean UI/UX focused workflows
+<a href="https://vaultx-69534.web.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-111111?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
 
-### Tech Stack
-React • Next.js • FastAPI • PostgreSQL • Docker
+<a href="https://github.com/dr5t/VaultX">
+<img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🔗 Repository  
-https://github.com/dr5t/VaultX
+</td>
+<td width="50%">
 
----
+## 🏥 Hospital Bed Management
+Real-time hospital bed allocation & healthcare workflow system.
 
-## 🏥 Hospital Bed Management System
-Real-time hospital bed allocation and management system designed to optimize healthcare resource tracking and operational workflows.
+<a href="https://bed-mgmt.web.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563eb?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
 
-### Features
-- Bed allocation management
-- Real-time availability tracking
-- Administrative workflow handling
-- Scalable healthcare system architecture
+<a href="https://github.com/dr5t/bedmgmt">
+<img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Tech Stack
-React • Node.js • PostgreSQL • Express • Docker
+</td>
+</tr>
 
-🔗 Repository  
-https://github.com/dr5t/bedmgmt
-
----
+<tr>
+<td width="50%">
 
 ## 🍱 Food Aid
-Platform focused on food distribution, accessibility, and aid coordination to reduce food waste and improve resource management.
+Food distribution & community resource management platform.
 
-### Features
-- Food distribution coordination
-- Resource management workflows
-- Community-focused utility system
-- Scalable backend architecture
+<a href="https://food-aid-2026.web.app/">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-16a34a?style=for-the-badge&logo=firebase&logoColor=white"/>
+</a>
 
-### Tech Stack
-React • FastAPI • MongoDB • Firebase
+<a href="https://github.com/dr5t/food-aid">
+<img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🔗 Repository  
-https://github.com/dr5t/food-aid
+</td>
 
+<td width="50%" align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NrbWF6YjV0YjQ3N2R5eDF5c3lqM2x6d3ZocDhoYW44eXJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dr5t&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
