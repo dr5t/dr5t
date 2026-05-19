@@ -47,8 +47,27 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ### 🔝 Top Contributed Repo
 # ⚡ Featured Projects
 
+# ⚡ Featured Projects
+
+<div align="center">
+
 <table>
 <tr>
+<td width="50%">
+
+## 🌐 Portfolio Website
+Modern developer portfolio showcasing projects, tech stack, achievements, and experimental systems.
+
+<a href="https://shaurya-dev.in/">
+<img src="https://img.shields.io/badge/🚀_Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dr5t/portfolio">
+<img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
 <td width="50%">
 
 ## 🔐 VaultX
@@ -63,6 +82,9 @@ Secure cloud vault & digital asset management platform.
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ## 🏥 Hospital Bed Management
@@ -77,9 +99,7 @@ Real-time hospital bed allocation & healthcare workflow system.
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ## 🍱 Food Aid
@@ -94,19 +114,10 @@ Food distribution & community resource management platform.
 </a>
 
 </td>
-
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NrbWF6YjV0YjQ3N2R5eDF5c3lqM2x6d3ZocDhoYW44eXJ4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
-
-</td>
 </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dr5t&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dr5t&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dr5t&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 
 ## 🐍 Eat My Contributions 
