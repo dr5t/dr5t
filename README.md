@@ -49,7 +49,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+FullStack+Developer;Automation+%7C+Computer+Vision+%7C+RealTime+Apps;Building+Modern+Developer+Tools+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+FullStack+Developer;Building+Modern+Developer+Tools+🚀;Automation+%7C+Computer+Vision+%7C+RealTime+Systems" />
 
 </div>
 
@@ -58,23 +58,26 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 <table align="center">
 
 <tr>
+
 <td width="50%" align="center">
 
 ### 🌐 Portfolio Website
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
 
 <br>
 
 ```diff
-+ Modern developer portfolio with futuristic UI
++ Modern animated developer portfolio experience
 ```
+
+<br>
 
 <a href="https://shaurya-dev.in/">
 <img src="https://img.shields.io/badge/🚀_Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/dr5t/portfolio">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -86,45 +89,51 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ### 🔐 VaultX
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyber-security.gif" width="250"/>
 
 <br>
 
 ```diff
-+ Secure cloud vault & digital asset manager
++ Secure cloud vault & encrypted asset management
 ```
+
+<br>
 
 <a href="https://vaultx-69534.web.app/">
 <img src="https://img.shields.io/badge/🚀_Live_Demo-111111?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/dr5t/VaultX">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" align="center">
 
 ### 🏥 Hospital Bed Management
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
+<img src="https://media.tenor.com/Iie8WB2j8RsAAAAC/hospital-healthcare.gif" width="250"/>
 
 <br>
 
 ```diff
-+ Real-time hospital resource allocation system
++ Smart hospital bed allocation & tracking platform
 ```
+
+<br>
 
 <a href="https://bed-mgmt.web.app/">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-2563eb?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/dr5t/bedmgmt">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -136,25 +145,28 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ### 🍱 Food Aid
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="220"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/food-charity.gif" width="250"/>
 
 <br>
 
 ```diff
-+ Community-driven food distribution platform
++ Community-driven food distribution & aid network
 ```
+
+<br>
 
 <a href="https://food-aid-2026.web.app/">
 <img src="https://img.shields.io/badge/🌍_Live_Demo-16a34a?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/dr5t/food-aid">
 <img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 </table>
