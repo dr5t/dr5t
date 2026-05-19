@@ -46,20 +46,39 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ### 🔝 Top Contributed Repo
 # ⚡ Featured Projects
-
 # ⚡ Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Modern+AI+%26+FullStack+Systems;Creating+Experimental+Developer+Tools;Automation+%7C+Computer+Vision+%7C+RealTime+Apps;Welcome+To+My+Project+Showcase+🚀" />
 
-## 🌐 Portfolio Website
-Modern developer portfolio showcasing projects, tech stack, achievements, and experimental systems.
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+# 🌐 Portfolio Website
+
+```diff
++ Modern developer portfolio with futuristic UI & animations
+```
+
+<br>
 
 <a href="https://shaurya-dev.in/">
-<img src="https://img.shields.io/badge/🚀_Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
 </a>
 
 <a href="https://github.com/dr5t/portfolio">
@@ -68,13 +87,20 @@ Modern developer portfolio showcasing projects, tech stack, achievements, and ex
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-## 🔐 VaultX
-Secure cloud vault & digital asset management platform.
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+
+# 🔐 VaultX
+
+```diff
++ Secure cloud vault & digital asset management platform
+```
+
+<br>
 
 <a href="https://vaultx-69534.web.app/">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-111111?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_Live_Demo-111111?style=for-the-badge&logo=firebase&logoColor=00F7FF"/>
 </a>
 
 <a href="https://github.com/dr5t/VaultX">
@@ -85,10 +111,17 @@ Secure cloud vault & digital asset management platform.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-## 🏥 Hospital Bed Management
-Real-time hospital bed allocation & healthcare workflow system.
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
+
+# 🏥 Hospital Bed Management
+
+```diff
++ Real-time hospital resource allocation & management system
+```
+
+<br>
 
 <a href="https://bed-mgmt.web.app/">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-2563eb?style=for-the-badge&logo=firebase&logoColor=white"/>
@@ -100,10 +133,17 @@ Real-time hospital bed allocation & healthcare workflow system.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-## 🍱 Food Aid
-Food distribution & community resource management platform.
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%"/>
+
+# 🍱 Food Aid
+
+```diff
++ Community-driven food distribution & resource management platform
+```
+
+<br>
 
 <a href="https://food-aid-2026.web.app/">
 <img src="https://img.shields.io/badge/🌍_Live_Demo-16a34a?style=for-the-badge&logo=firebase&logoColor=white"/>
@@ -115,7 +155,20 @@ Food distribution & community resource management platform.
 
 </td>
 </tr>
+
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dr5t&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
 
 </div>
 
