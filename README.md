@@ -89,7 +89,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ## 🔐 VaultX
 
-<img src="https://media.tenor.com/6bCIGQ8kgSMAAAAC/security-cyber.gif" width="240"/>
+<img src="./vaultx.gif" width="240"/>
 
 <br>
 
@@ -119,7 +119,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ## 🏥 Hospital Bed Management
 
-<img src="https://media.tenor.com/xVfFIHxAzW4AAAAC/hospital-medical.gif" width="240"/>
+<img src="./hospital.gif" width="240"/>
 
 <br>
 
@@ -145,7 +145,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ## 🍱 Food Aid
 
-<img src="https://media.tenor.com/7v1W4G6kekQAAAAC/food-donation.gif" width="240"/>
+<img src="./food-dnt.webp" width="240"/>
 
 <br>
 
