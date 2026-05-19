@@ -61,9 +61,9 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td width="50%" align="center">
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="240"/>
 
 <br>
 
@@ -87,9 +87,9 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td width="50%" align="center">
 
-### 🔐 VaultX
+## 🔐 VaultX
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyber-security.gif" width="250"/>
+<img src="https://media.tenor.com/6bCIGQ8kgSMAAAAC/security-cyber.gif" width="240"/>
 
 <br>
 
@@ -117,9 +117,9 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td width="50%" align="center">
 
-### 🏥 Hospital Bed Management
+## 🏥 Hospital Bed Management
 
-<img src="https://media.tenor.com/Iie8WB2j8RsAAAAC/hospital-healthcare.gif" width="250"/>
+<img src="https://media.tenor.com/xVfFIHxAzW4AAAAC/hospital-medical.gif" width="240"/>
 
 <br>
 
@@ -143,9 +143,9 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td width="50%" align="center">
 
-### 🍱 Food Aid
+## 🍱 Food Aid
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/food-charity.gif" width="250"/>
+<img src="https://media.tenor.com/7v1W4G6kekQAAAAC/food-donation.gif" width="240"/>
 
 <br>
 
