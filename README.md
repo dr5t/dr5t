@@ -1,7 +1,7 @@
 # Hey, I'm Shaurya 👨‍💻
 Full-stack and AI developer focused on automation, backend systems, and modern web architectures.
 
-## 💫 About Me
+# 💫 About Me
 
 🔧 Building scalable applications using modern full-stack technologies  
 🤖 Exploring AI integrations, computer vision, and workflow automation  
