@@ -39,12 +39,6 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Engineer;AI+%2B+Developer+Tools+Builder" />
 </p>
 
-## MERN TECHNOLOGY
-
-![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Express.js](https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
 ### Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
@@ -55,6 +49,14 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ### AI / Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+## MERN TECHNOLOGY
+
+![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Express.js](https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dr5t&theme=radical&no-frame=false&no-bg=true&margin-w=4)
