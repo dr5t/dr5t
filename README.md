@@ -11,6 +11,9 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 📚 Continuously learning advanced software engineering concepts and system architecture  
 🚀 Passionate about turning ideas into functional and impactful products
 
+
+![](https://komarev.com/ghpvc/?username=dr5t&label=Visitors&color=brightgreen&style=for-the-badge)
+
   # 💻 Tech Stack:
 
 
