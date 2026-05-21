@@ -39,7 +39,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Engineer;AI+%2B+Developer+Tools+Builder" />
 </p>
 
-## ⚡ Tech Stack
+## MERN TECHNOLOGY
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Express.js](https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express&logoColor=white)
