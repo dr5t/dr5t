@@ -1,6 +1,7 @@
-# Hey, I'm Shaurya 👨‍💻
-Engineer building intelligent developer systems.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hey+👋,+I'm+Shaurya+Tiwari;Building+Intelligent+Full-Stack+Systems;AI+%2B+Developer+Tooling;MERN+Stack+Engineer" />
+</p>
 Full-stack and AI developer focused on automation, backend systems, and modern web architectures.
 
 # 💫 About Me
