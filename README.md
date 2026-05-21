@@ -35,6 +35,17 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Engineer;AI+%2B+Developer+Tools+Builder" />
+</p>
+
+## ⚡ Tech Stack
+
+![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Express.js](https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
 ### Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
