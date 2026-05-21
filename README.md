@@ -178,6 +178,5 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://komarev.com/ghpvc/?username=dr5t&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
