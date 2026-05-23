@@ -62,7 +62,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ![](https://github-profile-trophy.vercel.app/?username=dr5t&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
+
 # ⚡ Featured Projects
 
 <div align="center">
