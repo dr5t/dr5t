@@ -173,14 +173,6 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 </div>
 
-## 🐍 Eat My Contributions 
-</div><br>
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 # :bar_chart: GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dr5t&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -195,6 +187,14 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr5t&theme=tokyo-night" />
 </p>
 
+
+## 🐍 Eat My Contributions 
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
