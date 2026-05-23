@@ -173,6 +173,15 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 </div>
 
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okharikesh&theme=tokyo-night" />
+</p>
+
+
+
 ## 🐍 Eat My Contributions 
 </div><br>
 <!-- Snake Game Repo View -->
