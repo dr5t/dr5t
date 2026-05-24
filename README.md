@@ -6,11 +6,11 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 # About Me
 
-🔧 Building scalable applications using modern full-stack technologies  
-🤖 Exploring AI integrations, computer vision, and workflow automation  
-⚙️ Interested in backend engineering, real-time systems, and cloud infrastructure  
-📚 Continuously learning advanced software engineering concepts and system architecture  
-🚀 Passionate about turning ideas into functional and impactful products
+ Building scalable applications using modern full-stack technologies  
+ Exploring AI integrations, computer vision, and workflow automation  
+ Interested in backend engineering, real-time systems, and cloud infrastructure  
+ Continuously learning advanced software engineering concepts and system architecture  
+ Passionate about turning ideas into functional and impactful products
 
 
 ![](https://komarev.com/ghpvc/?username=dr5t&label=Visitors&color=brightgreen&style=for-the-badge)
