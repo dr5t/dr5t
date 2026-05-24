@@ -4,7 +4,7 @@
 </p>
 Full-stack and AI developer focused on automation, backend systems, and modern web architectures.
 
-# 💫 About Me
+# About Me
 
 🔧 Building scalable applications using modern full-stack technologies  
 🤖 Exploring AI integrations, computer vision, and workflow automation  
@@ -15,7 +15,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 ![](https://komarev.com/ghpvc/?username=dr5t&label=Visitors&color=brightgreen&style=for-the-badge)
 
-  # 💻 Tech Stack:
+  # Tech Stack:
 
 
 ### Languages
@@ -58,12 +58,12 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dr5t&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
-# ⚡ Featured Projects
+#  Featured Projects
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td align="center" width="50%">
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="180"/>
 
@@ -99,7 +99,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td align="center" width="50%">
 
-## 🔐 VaultX
+##  VaultX
 
 <img src="./vaultx.gif" width="180"/>
 
@@ -125,7 +125,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td align="center" width="50%">
 
-## 🏥 Hospital Bed Management
+##  Hospital Bed Management
 
 <img src="./hospital.gif" width="180"/>
 
@@ -147,7 +147,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 <td align="center" width="50%">
 
-## 🍱 Food Aid
+##  Food Aid
 
 <img src="./food-dnt.webp" width="180"/>
 
@@ -181,14 +181,14 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr5t&theme=tokyo-night" />
 </p>
 
 
-## 🐍 Eat My Contributions 
+##  Eat My Contributions 
 </div><br>
 <!-- Snake Game Repo View -->
 
@@ -197,16 +197,17 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 </div>
 
 
-## 🌐 Socials:
+##  You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tiwarishau9) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dr5t) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/dr5t) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dr5_t) 
+
+
+
+##  Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/dr5t) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shauryatiwari12) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yqWkhWjAk4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dr.5_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-tiwari-a5b940380) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dr5t) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32347795) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshu53206)  [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dr5t) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@dr5t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwarishaurya395@gmail.com) 
 
 
 
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tiwarishau9) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dr5t) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/dr5t) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dr5_t) 
-
-
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
