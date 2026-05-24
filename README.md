@@ -188,14 +188,14 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 </p>
 
 
-##  Eat My Contributions 
-</div><br>
-<!-- Snake Game Repo View -->
+# Eat My Contributions
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img 
+    src="https://raw.githubusercontent.com/dr5t/dr5t/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </div>
-
 
 ##  You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tiwarishau9) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dr5t) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/dr5t) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dr5_t) 
