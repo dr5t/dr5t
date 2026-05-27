@@ -175,7 +175,7 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 
 
 # :bar_chart: GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dr5t&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dr5t&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=dr5t&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dr5t&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
