@@ -58,8 +58,6 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dr5t&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
