@@ -179,11 +179,6 @@ Full-stack and AI developer focused on automation, backend systems, and modern w
 ![](https://streak-stats.demolab.com/?user=dr5t&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dr5t&theme=dark&hide_border=false&layout=compact)
-#  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr5t&theme=tokyo-night" />
-</p>
 
 
 # Eat My Contributions
